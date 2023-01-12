@@ -1,6 +1,6 @@
 # Taier
 
-## 1. Introduction
+## 1. 介绍
 
 > A distributed dispatching system that focus on different tasks  submitted  and scheduled.
 >
@@ -17,7 +17,7 @@
 
 **Taier** 提供了一个提交、调度、运维、指标信息展示的一站式大数据开发平台
 
-![image-20230110105504813](C:\Users\86198\AppData\Roaming\Typora\typora-user-images\image-20230110105504813.png)
+![image-20230110105504813](image\Taier-structure.png)
 
 ## 2. 使用的工具
 
